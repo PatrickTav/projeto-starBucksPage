@@ -11,10 +11,10 @@ O desafio é fazer uma página responsiva e usando display grid e flex
 ![](./assets/images/fullpage.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://patricktav.github.io/nft-preview-card-challeng/)
+- Live Site URL: [Clique e veja online](https://patricktav.github.io/nft-preview-card-challeng/)
 
 
-### Built with
+### Criado com
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -24,6 +24,6 @@ O desafio é fazer uma página responsiva e usando display grid e flex
 
 
 
-## Author
+## Autor
 
 - Frontend Mentor - [@PatrickTav](https://www.linkedin.com/in/patrick-tavares2020/)
